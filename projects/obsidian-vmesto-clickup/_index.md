@@ -11,6 +11,7 @@
 | [`docs/razbor-plagina.md`](docs/razbor-plagina.md) | разбор плагина: что уже подходит, чего не хватает, сравнение с готовыми, рекомендация |
 | [`docs/rabochee-mesto.md`](docs/rabochee-mesto.md) | главный экран, работа отдельно от личного, варианты репозиториев |
 | [`docs/instrukciya-agentu.md`](docs/instrukciya-agentu.md) | инструкция локальному агенту: настройка, перенос задач, главный экран |
+| [`docs/kartochki-clickup.md`](docs/kartochki-clickup.md) | все 26 карточек ClickUp: имя, сроки, приоритет, зависимости, документы |
 
 ## Статус
 
