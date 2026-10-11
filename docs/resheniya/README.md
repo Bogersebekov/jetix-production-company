@@ -5,6 +5,7 @@
 
 | Дата | Решение | Где сказано | Что меняет |
 |---|---|---|---|
+| 2026-10-11 | Рабочее место — **Notion**, «Командный центр»: задачи, CRM, бренд, контент, база знаний. ClickUp и старых агентов по нему — в архив | чат проекта, тред «Командный центр в Notion» | [`projects/notion-komandnyj-centr/_index.md`](../../projects/notion-komandnyj-centr/_index.md) |
 | 2026-10-11 | ⭐ Ценности — часть позиционирования, порядок работы его: ① собрать примеры → ② прописать ценности → ③ перевести их в ПРАВИЛА. Область действия: блог, сайт и работа с клиентами целиком | [голос 09:03](https://github.com/Bogersebekov/jetix-os/blob/main/tochka-b/184-OS-09-03.md) | [`11-POZICIONIROVANIE.md`](../../projects/upakovka-prodyuserskogo-centra/docs/11-POZICIONIROVANIE.md) §0 |
 | 2026-10-11 | Названные ценности: открытость; не сдаваться в сложных ситуациях, искать выход, развивать себя и проект. Остальные «базовые» он даст сам | [голос 09:03](https://github.com/Bogersebekov/jetix-os/blob/main/tochka-b/184-OS-09-03.md) | там же |
 | 2026-10-11 | ⭐ П-9: позиционирование — «строю корпорацию и влиятельную компанию, окружаю себя людьми, которые разделяют взгляды»; на камере ведёт себя так же. Не фрилансер и не начинающий | [голос 08:42](https://github.com/Bogersebekov/jetix-os/blob/main/tochka-b/183-OS-08-42.md) | [`11-POZICIONIROVANIE.md`](../../projects/upakovka-prodyuserskogo-centra/docs/11-POZICIONIROVANIE.md) §0 |
