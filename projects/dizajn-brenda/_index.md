@@ -1,11 +1,13 @@
 # Дизайн бренда Jetix Agency
 
 Начато 2026-10-11. 11.10 Руслан решил: стиль Jetix из августа переносим на агентство целиком.
+11.10 утвердил карточку К-4 (наш канон: срез, плашка, Luna + Iosevka) как базовую версию для сайта.
 
 - `docs/01-chto-uzhe-est.md` — что по дизайну решено в jetix-os (август 2026)
+- `previews/` — превью артбордов: карточки К-1…К-4, форматы Ф-1…Ф-4, заливки плашек, субтитры С-1…С-5
 - `skill/SKILL.md` — скилл дизайна Jetix (копия; рабочая — /mnt/project-files/brand/SKILL.md, там же токены и шрифты)
 
 Где живёт:
 - Notion: страница «Дизайн» под «Бренд» (3f62496333bf816a9c2cdec203efc03c), база «Настройки бренда»
-- Claude Design: https://claude.ai/artifact/JgCd8pEhzVejSRamap9FQY — варианты А, Б, В и бренд-лист
+- Claude Design: https://claude.ai/artifact/JgCd8pEhzVejSRamap9FQY — варианты стиля, карточки, форматы блоков, заливки плашек, субтитры рилсов
 - Miro: https://miro.com/app/board/uXjVHuELE0c=/ — фрейм «Бренд Jetix: настройки»
