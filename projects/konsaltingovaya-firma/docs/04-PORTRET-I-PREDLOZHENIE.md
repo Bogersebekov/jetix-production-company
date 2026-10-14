@@ -293,10 +293,10 @@ Club это клуб айтишников, а он сам сказал «для 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"background":"#05070D","primaryColor":"#0E2A4D","primaryTextColor":"#EAF2FF","primaryBorderColor":"#3D7BFF","lineColor":"#5B8DEF","textColor":"#EAF2FF","clusterBkg":"#0A1830","clusterBorder":"#2B4A7A","nodeBorder":"#3D7BFF","edgeLabelBackground":"#0E2647","fontFamily":"Inter, Arial, sans-serif"}}}%%
 flowchart LR
-    SAID["Портрет СЛОВОМ, держится с 25.08<br/>свой бизнес или 10-15 лет в IT и PM<br/>узкий специалист, деятельный"]:::goal
+    SAID["Портрет СЛОВОМ, держится с 25.08<br/>свой бизнес или 10-15 лет в IT и PM<br/>узкий специалист"]:::goal
     HAVE["Портрет В БАЗЕ<br/>автор блога или канала<br/>психология, коучинг, деньги, научпоп"]:::entity
     SPLIT["⚠️ Совпадают 6 из 59<br/>частично ещё 7<br/>данных нет по 23"]:::accent
-    WHY["Причина: 25 карточек заведены 12.10 утром<br/>под продюсерский центр<br/>поворот к фирме случился в тот же день в 16:34"]:::crosscut
+    WHY["Причина: 25 карточек заведены<br/>12.10 утром под продюсерский центр<br/>поворот к фирме - в 16:34 того же дня"]:::crosscut
     FIX1["Вариант: добить 23 пустых ника<br/>Vastrik Club = его портрет по природе"]:::direction
     FIX2["Вариант: 31 автору дать роль клиент<br/>им продаём, их не зовём"]:::direction
 
@@ -832,7 +832,8 @@ commitment statement.
 **Bigre!** (Франция, 2016) — федерация поверх кооперативов, которую участники назвали «**mutuelle de
 travail associé**», первая мутуаль ассоциированного труда: SMart, Coopaname, Oxalis, Grands Ensemble и
 Vecteur Activités, вместе **~7 000 человек, 25 заведений по Франции**
-([ESS et société](https://www.ess-et-societe.net/SMart-Coopaname-Oxalis-Grands), [bigre.coop](https://www.bigre.coop/pourquoi-bigre/)).
+([ESS et société](https://www.ess-et-societe.net/SMart-Coopaname-Oxalis-Grands),
+[bigre.coop](https://www.bigre.coop/pourquoi-bigre/)).
 Единственный найденный живой пример «взаимной кассы» независимых работников **в масштабе тысяч** —
 то есть в том порядке, о котором он говорит (1000–1500). Что эта федерация делает со взаимопомощью
 за пределами общего бэк-офиса, в публичных материалах не раскрыто — **ДАННЫХ НЕТ**.
@@ -853,12 +854,14 @@ Vecteur Activités, вместе **~7 000 человек, 25 заведений 
 
 1. **Солидарный фонд спасает людей, но не спасает дело.** Fagor Electrodomésticos, флагман Mondragón,
    16 октября 2013 подал на защиту от банкротства с долгом **1,1 млрд €**, под риском **5 600 рабочих
-   мест** ([Columbus CEO / AP](https://www.columbusceo.com/story/business/2013/10/16/spanish-company-fagor-seeks-bankruptcy/22865083007/)).
+   мест**
+   ([Columbus CEO / AP](https://www.columbusceo.com/story/business/2013/10/16/spanish-company-fagor-seeks-bankruptcy/22865083007/)).
    Людей расселили по группе — досрочная пенсия, переобучение. Бизнес умер. Страховка покрывает человека,
    а не его затею.
 2. **Чем больше в группе тех, кто не вложился, тем меньше работает страховка.** В том же Fagor работало
    **5 642 человека, но членами кооператива были только ~2 000**
-   ([Kasmir, FocaalBlog](https://www.focaalblog.com/2015/06/29/sharryn-kasmir-mondragon-coops-and-the-anthropological-imagination/)).
+   ([Kasmir,
+   FocaalBlog](https://www.focaalblog.com/2015/06/29/sharryn-kasmir-mondragon-coops-and-the-anthropological-imagination/)).
    Отсюда их правило: **не менее 80% работающих должны быть полноправными членами**.
 
 🔶 **Что из этого следует — кандидат агента.** Фразу «группа поддерживает» в тексте наружу заменить на
